@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+   height: 100%;    /* yee pura page yani body k liye h */
+    width: 100%;
+}
+
+body{
+    background-color: pink;
+    display: flex;            /* ye teeno{disply flex,align items aur justofy content page k becho bich le aayega */
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    font-size: xx-large;
+}
+
+#box1{
+    background-color: aqua;
+    display: flex;            
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#box2{
+    background-color: greenyellow;
+}

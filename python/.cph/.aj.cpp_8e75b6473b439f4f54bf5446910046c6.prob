@@ -1,0 +1,1 @@
+{"name":"Local: aj","url":"c:\\Users\\jhaab\\OneDrive\\Desktop\\Coding\\python\\aj.cpp","tests":[{"id":1711384957477,"input":"3\n3 2\n4 2\n5 7","output":"5\n6\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jhaab\\OneDrive\\Desktop\\Coding\\python\\aj.cpp","group":"local","local":true}

@@ -1,0 +1,16 @@
+#container {
+ width:900px;
+ height:400px;
+ background-color:aquamarine;
+ display:flex;
+ flex-direction: row;
+justify-content: space-between;
+}
+
+.items {
+    width: 200px;
+    height:200px;
+    background-color: red;
+    border:5px solid blue;
+    border-radius: 10px;
+}
